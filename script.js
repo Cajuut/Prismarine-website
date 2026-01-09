@@ -113,7 +113,7 @@ function resetCard() {
 /* =========================================
    Terms Modal Controls
    ========================================= */
-const DOWNLOAD_URL = 'https://github.com/suzakudesuyoo/Prismarine-server-software-Appdate/releases/download/v1.0/PrismarineLauncher.exe';
+const DOWNLOAD_URL = 'https://github.com/Cajuut/Prismarine-updater/releases/download/v.1/PrismarineLauncher.exe';
 
 function openTermsModal() {
     const modal = document.getElementById('termsModal');
